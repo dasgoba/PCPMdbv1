@@ -8,6 +8,7 @@ input file: http://ftp.ebi.ac.uk/pub/databases/merops/current_release/database_f
 Correction 1: line no. 142716: Reid %etal, 1999[20040510M283]%> has falsely printed to newline due to inclusion of a newline character.
 
 \S08.116"       "P02666"        "54"    "experimental"  "physiological" \N      \N      \N      "16-224"        \N      "<%Reid %etal, 1999
+
 Reid %etal, 1999[20040510M283]%>"       "NT"    "IN"
 
 Correction 2: line no. 116641: Inclusion of garbage charater 
